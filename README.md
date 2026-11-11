@@ -52,11 +52,11 @@ A free JavaScript learning platform with concise lessons, editable examples, qui
 </td>
 <td width="50%" valign="top">
 
-### [GiftWhisper](https://giftwhisper.online) 🎁
+### [Elf Match](https://elfmatch.com) 🎁
 
-A Secret Santa generator for families, friends, and teams, with wishlists, exclusion rules, and automatic matching.
+A Secret Santa generator for families, friends, and teams, with wishlists, exclusion rules, and a private draw. Formerly GiftWhisper.
 
-[![Live](https://img.shields.io/badge/CREATE_AN_EXCHANGE-giftwhisper.online-E11D48?style=flat-square)](https://giftwhisper.online)
+[![Live](https://img.shields.io/badge/CREATE_AN_EXCHANGE-elfmatch.com-E11D48?style=flat-square)](https://elfmatch.com)
 
 </td>
 </tr>
